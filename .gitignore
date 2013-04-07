@@ -1,0 +1,10 @@
+*.pyc
+
+
+# Metatrader files #
+###################
+
+*.ex5
+*.log
+*.mql5
+*.mq5

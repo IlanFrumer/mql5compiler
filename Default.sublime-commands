@@ -1,0 +1,16 @@
+[
+    {
+        "caption": "Compile mql5",
+        "command": "mql5_compiler",
+        "args": {
+	  	  "compile":"True" 
+		}
+    },
+    {
+        "caption": "Check syntax mql5",
+        "command": "mql5_compiler",
+        "args": {
+	  	  "compile": "False" 
+		}
+    }
+]

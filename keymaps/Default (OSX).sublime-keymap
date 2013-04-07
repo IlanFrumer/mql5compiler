@@ -1,0 +1,16 @@
+[
+    {
+    	"keys": ["ctrl+alt+shift+n"], 
+    	"command": "mql5_compiler",    
+     	"args": {
+	  	  "compile":"true" 
+	 	}
+	},
+	    {
+	    	"keys": ["ctrl+alt+n"], 
+	    	"command": "mql5_compiler",    
+	     	"args": {
+		  	  "compile":"false" 
+		 	}
+		}
+]
